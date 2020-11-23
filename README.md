@@ -14,3 +14,9 @@ Tài liệu tham khảo:
 2. cd /local: xóa file ko có trong name.txt
 3. Chia nhỏ folder thành những folder con khoảng 25 file/folder
 4. Chạy động cho từng folder nhỏ.
+
+'''
+source droidbox_env/bin/activate
+cd AndroPyTool/
+python androPyTool.py -s /home/tung/test/ -dr 
+'''
